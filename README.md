@@ -10,10 +10,6 @@
 
 <br/>
 
-# 💫 About Me:
-I'm from VietNam vn
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/604557685312192513) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fb.com/um.hmmmm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ngn.yud) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iduygms@gmail.com) 
 
@@ -44,8 +40,6 @@ I'm from VietNam vn
 </div>
 
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vscode,github,r" />
 </div>
 
 <br/>
